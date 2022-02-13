@@ -1,2 +1,2 @@
 #!/bin/bash
-df -Th >> /var/log/disk.log
+df -Th > /opt/df.log
