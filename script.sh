@@ -1,2 +1,2 @@
 #!/bin/bash
-df -Th >> /root/cron-out/disk.log
+df -Th >> /var/log/disk.log
